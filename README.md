@@ -45,6 +45,8 @@ Nesse projeto, foi usado como embasamento técnico os materiais do ISTQB, “Con
 - Pip instalado na versão 24.0 ou superior
 - Acesso a uma API KEY do Gemini
 
+Obs. A API KEY deve ser adicionada nos arquivos de testes no local indicado.
+
 ## 🚩Processos de instalação 
 Faça o clone do projeto em sua máquina ou caso prefira, baixe os arquivos do projeto em sua máquina e extraia eles e depois, com o terminal aberto na pasta raiz do projeto, execute os comandos abaixo:
 

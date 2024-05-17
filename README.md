@@ -60,7 +60,5 @@ Na pasta raiz do projeto, abra o terminal e execute dos comandos abaixo, sendo o
 `pytest -W ignore testing/test_validate_failure_scenario.py`
 
 ## 📊 Resultados
-<br>
-![image](https://github.com/jpaulo-mnz/Chatbot-Testing/assets/67907959/fe91c896-849c-422c-8e17-c1370b3aff77)
-<br>
+![image](https://github.com/jpaulo-mnz/Chatbot-Testing/assets/67907959/fe91c896-849c-422c-8e17-c1370b3aff77) <br>
 ![image](https://github.com/jpaulo-mnz/Chatbot-Testing/assets/67907959/3279a1c1-1946-4beb-b84e-e6097e0bf4c9)

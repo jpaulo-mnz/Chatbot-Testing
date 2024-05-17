@@ -1,7 +1,7 @@
 
-import google.generativeai as genai # type: ignore
-import pandas as pd # type: ignore
-import pytest # type: ignore
+import google.generativeai as genai
+import pandas as pd
+import pytest
 import json
 
 client_interaction = 'PERGUNTAS/RESPOSTAS DO CLIENTE'

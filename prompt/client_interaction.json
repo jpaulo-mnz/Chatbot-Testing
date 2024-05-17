@@ -1,0 +1,5 @@
+{
+  "initial_client_prompt": "Analise essa pergunta gerada por um chatbot:",
+  "intermediate_client_prompt": "Agora, analise a resposta de um humano a essa pergunta do chatbot:",
+  "final_client_prompt": "Agora, avalie se essa resposta humana está de acordo com a pergunta do chatbot, responda apenas e nada a mais do que uma das seguintes opções entre as aspas simples: 'De acordo', 'Resposta fora do contexto'"
+}

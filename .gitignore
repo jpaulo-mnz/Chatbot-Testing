@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+__pycache__/
+*.pyc
+*.pyo
+__pycache__/
+/build/
+/dist/
+.env
+config.ini
+*.log
+*.tmp
+/requirements.txt
+/Pipfile.lock
+.vscode/
+.idea/

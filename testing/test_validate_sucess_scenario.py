@@ -25,7 +25,7 @@ def assert_all_in(data, expected_values, description):
     missing_values = [value for value in expected_values if value not in data]
     assert not missing_values, f"{description}: Valores não encontrados: {missing_values}"
 
-API_KEY = 'AIzaSyATPMuqiLscY3t-W0ZKL4Xj9mOUtok9tI0'
+API_KEY = ''
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-pro')
 

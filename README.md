@@ -48,16 +48,19 @@ Nesse projeto, foi usado como embasamento técnico os materiais do ISTQB, “Con
 ## 🚩Processos de instalação 
 Faça o clone do projeto em sua máquina ou caso prefira, baixe os arquivos do projeto em sua máquina e extraia eles e depois, com o terminal aberto na pasta raiz do projeto, execute os comandos abaixo:
 
-`pip install pytest`
-`pip install pandas`
-`pip install -q -U google-generativeai`
+`pip install pytest`<br><br>
+`pip install pandas`<br><br>
+`pip install -q -U google-generativeai`<br><br>
 
 ## 🚀Passos para executar
 
 Na pasta raiz do projeto, abra o terminal e execute dos comandos abaixo, sendo o primeiro para executar a automação de testes dos cenarios de sucesso e o segundo para executar os cenarios de falha:
 
-`pytest -W ignore testing/test_validate_sucess_scenario.py`
+`pytest -W ignore testing/test_validate_sucess_scenario.py` <br><br>
 `pytest -W ignore testing/test_validate_failure_scenario.py`
 
 ## 📊 Resultados
-
+<br>
+![image](https://github.com/jpaulo-mnz/Chatbot-Testing/assets/67907959/fe91c896-849c-422c-8e17-c1370b3aff77)
+<br>
+![image](https://github.com/jpaulo-mnz/Chatbot-Testing/assets/67907959/3279a1c1-1946-4beb-b84e-e6097e0bf4c9)
